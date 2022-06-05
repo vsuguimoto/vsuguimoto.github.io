@@ -4,8 +4,7 @@
 
 ### Análises Exploratórias
 
-[Hábitos Saudáveis e Depressão, existe alguma relação?](/eda/DesafioInferencia-Tera.html)
-<img src="images/thumb-desafio-inferencia.jpg?raw=true"/>
+[<img src="images/thumb-desafio-inferencia.jpg?raw=true"/>](/eda/DesafioInferencia-Tera.html)
 
 
 ---
